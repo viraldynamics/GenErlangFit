@@ -438,4 +438,4 @@ distribution, when calibrated to reproduce the same observed early
 growth rate. This is an important contrast to the finding that final
 epidemic size does not depend on the details of the generation interval
 distribution (e.g., the number of substates describing the latent or
-infectious states), conditional on $`R_0`$ being kept constant
+infectious states), conditional on $`R_0`$ being kept constant.

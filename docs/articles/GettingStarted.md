@@ -247,7 +247,7 @@ here**](https://vivekmurals.github.io/GenErlangFit/articles/TechnicalDetails.md)
 
 If you encounter any issues or have suggestions for new features, feel
 free to open an issue on the [**GitHub
-repository**](https://github.com/vivekmurals/GenErlangFit/issues).
+repository**](https://github.com/viraldynamics/GenErlangFit/issues).
 
 Thank you for using GenErlangFit and We look forward to seeing how
 GenErlangFit aids your modeling efforts!

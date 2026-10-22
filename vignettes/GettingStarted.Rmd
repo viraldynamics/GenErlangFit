@@ -191,6 +191,6 @@ The GenErlangFit package offers a flexible and user-friendly toolkit for fitting
 
 We encourage users to explore the different fitting options, goodness-of-fit evaluations, and the smallest-K search to tailor the analysis to their specific datasets and research questions. For a deeper dive into the theoretical foundations, algorithmic details, and troubleshooting tips, please consult the [**Technical Details vignette linked here**](TechnicalDetails.html). 
 
-If you encounter any issues or have suggestions for new features, feel free to open an issue on the [**GitHub repository**](https://github.com/vivekmurals/GenErlangFit/issues).
+If you encounter any issues or have suggestions for new features, feel free to open an issue on the [**GitHub repository**](https://github.com/viraldynamics/GenErlangFit/issues).
 
 Thank you for using GenErlangFit and We look forward to seeing how GenErlangFit aids your modeling efforts!
