@@ -17,7 +17,7 @@ To install and load the package from GitHub, run these commands in the R
 console and load the following libraries:
 
 ``` r
-devtools::install_github("vivekmurals/GenErlangFit")
+devtools::install_github("viraldynamics/GenErlangFit")
 library(GenErlangFit)
 library(ggplot2)
 ```
