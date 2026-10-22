@@ -4,20 +4,20 @@ GenErlangFit is an R package and web application for fitting Erlang and
 Erlang-Exponential distributions to empirical waiting time data, helping
 modelers incorporate realistic non-exponential waiting time
 distributions in compartmental models via the [Linear Chain
-Trick](https://vivekmurals.github.io/GenErlangFit/articles/LinearChainTrick.html).
+Trick](https://viraldynamics.github.io/GenErlangFit/articles/LinearChainTrick.html).
 
 The web application is available at
-<https://viraldynamics-generlangfit.share.connect.posit.cloud/> for users who
-prefer an interactive interface.
+<https://viraldynamics-generlangfit.share.connect.posit.cloud/> for
+users who prefer an interactive interface.
 
 ## Installation
 
 You can install the development version of GenErlangFit from
-  [GitHub](https://github.com/viraldynamics/GenErlangFit) with:
+[GitHub](https://github.com/viraldynamics/GenErlangFit) with:
 
 ``` r
 install.packages("devtools") # If not already installed.
-devtools::install_github("vivekmurals/GenErlangFit", build_vignettes = TRUE)
+devtools::install_github("viraldynamics/GenErlangFit", build_vignettes = TRUE)
 ```
 
 ## Documentation
