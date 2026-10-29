@@ -93,10 +93,10 @@ ui <- navbarPage(
     technique that allows modelers to incorporate realistic waiting time distributions
     in ordinary differential equations (ODE) based compartmental models. Given empirical data, this tool identifies the best-fit
     distribution and corresponding model structure. To learn more about the R package, visit the ",
-        tags$a(href = "https://vivekmurals.github.io/GenErlangFit/", target = "_blank",
+        tags$a(href = "https://viraldynamics.github.io/GenErlangFit/", target = "_blank",
                "online documentation"),
         " or ",
-        tags$a(href = "https://github.com/vivekmurals/GenErlangFit", target = "_blank",
+        tags$a(href = "https://github.com/viraldynamics/GenErlangFit", target = "_blank",
                "GitHub repository"),
         "."),
       br(),
